@@ -2,11 +2,14 @@
 
 A production-quality, enterprise-grade backend service built with **Java 21** and **Spring Boot 3.3.x** for issuing, looking up, auditing, and revoking tamper-proof educational certificates with immutable point-in-time snapshots, temporal design assignment history, and database-enforced concurrency control.
 
+🚀 **[Live Demo & Interactive Swagger UI](https://certificate-service-1.onrender.com/swagger-ui/index.html)**
+
 ---
 
-## 🚀 Interactive API Documentation
-* **Swagger UI Console**: [http://localhost:8080/swagger-ui.html](http://localhost:8080/swagger-ui.html)
-* **OpenAPI 3 JSON Spec**: [http://localhost:8080/v3/api-docs](http://localhost:8080/v3/api-docs)
+## 🚀 Live Interactive API Documentation
+* 🌐 **Live Cloud Swagger UI**: [https://certificate-service-1.onrender.com/swagger-ui/index.html](https://certificate-service-1.onrender.com/swagger-ui/index.html)
+* 📄 **OpenAPI 3 JSON Specification**: [https://certificate-service-1.onrender.com/v3/api-docs](https://certificate-service-1.onrender.com/v3/api-docs)
+* 💻 **Local Development Console**: [http://localhost:8080/swagger-ui.html](http://localhost:8080/swagger-ui.html)
 
 ---
 
