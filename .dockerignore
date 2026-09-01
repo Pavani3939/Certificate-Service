@@ -1,0 +1,10 @@
+target/
+.git/
+.gitignore
+*.md
+run-demo.bat
+demo.ps1
+docker-compose.yml
+.idea/
+.vscode/
+*.log
